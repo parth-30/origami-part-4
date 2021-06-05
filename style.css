@@ -1,0 +1,19 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+
+}
+.origami{
+    border-radius: 20px;
+}
+.origami:hover{
+    transform: scale(1.2);
+}
+a:link{
+    color:white
+}
+a:visited{
+    color:white
+}
